@@ -9,6 +9,9 @@
  *     }
  * }
  */
+/**
+ * 是一个比较愚蠢的办法。。。
+ */
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         Long a = Long.parseLong(toString(l1));
