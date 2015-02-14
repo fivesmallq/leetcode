@@ -13,5 +13,5 @@
 
            | Point | Accepted | Plank(分钟)
 -----------|-------|----------|------------
-joyjy      |       | 1        | -1
-fivesmallq | 1     |          | -1
+joyjy      | 2     | 1        | -1
+fivesmallq | 1     |          | -3
