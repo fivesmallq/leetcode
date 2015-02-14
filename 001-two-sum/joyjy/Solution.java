@@ -1,9 +1,3 @@
-/*
- * 16 / 16 test cases passed.
- * Status: Accepted
- * Runtime: 241 ms
- */
-
 public class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int length = numbers.length;
